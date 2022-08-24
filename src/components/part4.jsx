@@ -28,7 +28,7 @@ export const Part4 = (props) => {
             <div className="part-sub-image-content row">                             
               <div className="col-xs-12 col-md-4"></div>
               <div className="part-sub-image-size col-xs-12 col-md-4">
-                <img alt='temp' src='img/feature/Image.png' className="part-sub-image-percent"/>
+                <img alt='temp' src='img/feature/image.png' className="part-sub-image-percent"/>
               </div>              
             </div>
           </div>
