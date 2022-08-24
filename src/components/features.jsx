@@ -31,6 +31,7 @@ export const Features = (props) => {
           </div>
           <div className="col-xs-12 col-md-1">  
             <img
+              alt='temp'
               src='img/feature/Image.png'                         
             />          
           </div>

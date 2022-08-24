@@ -30,7 +30,7 @@ export const Part5 = (props) => {
                 <div className="row"> 
                   <div className="col-xs-12 col-md-2">
                     <div className="part-sub-image1-size">
-                      <img src='img/part/build.png' className="part-sub-image-percent"/>
+                      <img alt='temp' src='img/part/build.png' className="part-sub-image-percent"/>
                     </div>                    
                   </div>                  
                   <div className="part-sub-margin part-header-font-black col-xs-12 col-md-2">                
@@ -50,7 +50,7 @@ export const Part5 = (props) => {
                 <div className="row"> 
                   <div className="col-xs-12 col-md-2">
                     <div className="part-sub-image1-size">
-                      <img src='img/part/grow.png' className="part-sub-image-percent"/>
+                      <img alt='temp' src='img/part/grow.png' className="part-sub-image-percent"/>
                     </div>                    
                   </div>                  
                   <div className="part-sub-margin part-header-font-black col-xs-12 col-md-2">                
@@ -70,7 +70,7 @@ export const Part5 = (props) => {
                 <div className="row"> 
                   <div className="col-xs-12 col-md-2">
                     <div className="part-sub-image1-size">
-                      <img src='img/part/belong.png' className="part-sub-image-percent"/>
+                      <img alt='temp' src='img/part/belong.png' className="part-sub-image-percent"/>
                     </div>                    
                   </div>                  
                   <div className="part-sub-margin part-header-font-black col-xs-12 col-md-2">                

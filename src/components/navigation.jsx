@@ -6,32 +6,32 @@ export const Navigation = (props) => {
           <span style={{float:"left", fontSize:"30px"}}>Sophon</span>
           <ul className='nav navbar-nav navbar-right'>
             <li>
-              <a className='page-scroll'>
+              <a href='#features' className='page-scroll'>
                 Learn
               </a>
             </li>
             <li>
-              <a className='page-scroll'>
+              <a href='#about' className='page-scroll'>
                 Ecosystem
               </a>
             </li>
             <li>
-              <a className='page-scroll'>
+              <a href='#services' className='page-scroll'>
                 Services
               </a>
             </li>
             <li>
-              <a className='page-scroll'>
+              <a href='#portfolio' className='page-scroll'>
                 ESG
               </a>
             </li>
             <li>
-              <a className='page-scroll'>
+              <a href='#testimonials' className='page-scroll'>
                 Community
               </a>
             </li>
             <li>
-              <a className='page-scroll'>
+              <a href='#team' className='page-scroll'>
                 Blog
               </a>
             </li>
